@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DevExpress.Razor/Controllers/HomeController.cs)
+* [Company.cs](./CS/DevExpress.Razor/Models/Company.cs)
+* [GridViewDetailPartial.cshtml](./CS/DevExpress.Razor/Views/Home/GridViewDetailPartial.cshtml)
+* **[GridViewMasterPartial.cshtml](./CS/DevExpress.Razor/Views/Home/GridViewMasterPartial.cshtml)**
+* [Index.cshtml](./CS/DevExpress.Razor/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to implement the master detail GridView with editing capabilities
 
 

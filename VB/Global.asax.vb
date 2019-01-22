@@ -28,8 +28,6 @@ Namespace DevExpress.Razor
 
 			RegisterGlobalFilters(GlobalFilters.Filters)
 			RegisterRoutes(RouteTable.Routes)
-		
-			ModelBinders.Binders.DefaultBinder = New DevExpress.Web.Mvc.DevExpressEditorsBinder()
 		End Sub
 	End Class
 End Namespace

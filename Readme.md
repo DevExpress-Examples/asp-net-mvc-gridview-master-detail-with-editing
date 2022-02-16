@@ -4,17 +4,17 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# GridView for MVC - How to implement the master detail GridView with editing capabilities
+# GridView for MVC - How to implement the master-detail GridView with editing capabilities
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e4271/)**
 <!-- run online end -->
 
 
-This example illustrates how to implement the master detail GridView with editing capabilities. 
+This example illustrates how to implement the master-detail GridView with editing capabilities. 
 
 ![Master-Detail GridView](master-detail-grid.png)
 
-Follow the steps blow to define the master-detail layout:
+Follow the steps below to define the master-detail layout:
 
 1. Define master and detail GridView settings in separate PartialView files.
 
@@ -40,7 +40,7 @@ Follow the steps blow to define the master-detail layout:
     ```cshtml
     settings.SettingsDetail.ShowDetailRow = true;
     ```
-3. Call the master grid's [SetDetailRowTemplateContent](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewSettings.SetDetailRowTemplateContent.overloads) method to render the detail grid's PartialView in [Detail Row](https://docs.devexpress.com/AspNetMvc/16880/components/grid-view/visual-elements/detail-row).
+3. Call the master grid's [SetDetailRowTemplateContent](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.GridViewSettings.SetDetailRowTemplateContent.overloads) method to render the detail grid's PartialView in the [Detail Row](https://docs.devexpress.com/AspNetMvc/16880/components/grid-view/visual-elements/detail-row).
 
     ```cshtml
     settings.SetDetailRowTemplateContent(c => {

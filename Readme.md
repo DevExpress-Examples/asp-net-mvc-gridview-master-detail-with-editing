@@ -14,7 +14,7 @@
 <!-- default file list end -->
 # How to implement the master detail GridView with editing capabilities
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4271)**
+**[[Run Online]](https://codecentral.devexpress.com/128551713/)**
 <!-- run online end -->
 
 

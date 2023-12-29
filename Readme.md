@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # GridView for MVC - How to implement the master-detail GridView with editing capabilities
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128551713/)**
-<!-- run online end -->
 
 
 This example illustrates how to implement the master-detail GridView with editing capabilities. 

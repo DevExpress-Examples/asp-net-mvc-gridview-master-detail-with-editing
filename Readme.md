@@ -61,7 +61,7 @@ Note that route values passed in a detail grid's callback must have a unique n
 - [GridView - Advanced Master-Detail View](https://github.com/DevExpress-Examples/gridview-advanced-master-detail-view-t203289)
 - [A simple example of master-detail grids with editing capabilities](https://github.com/DevExpress-Examples/a-simple-example-of-master-detail-grids-with-editing-capabilities-e248)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-gridview-master-detail-with-editing&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-gridview-master-detail-with-editing&~~~was_helpful=no)
 
